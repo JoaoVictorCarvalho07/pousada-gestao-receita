@@ -1,0 +1,12 @@
+2026-11-23 15:11:28,778 INFO run_id=20261123T151128 comando=python run_pipeline.py --input-dir data/raw/invalid_example
+2026-11-23 15:11:28,778 INFO passo=aquisicao diretorio=data/raw/invalid_example
+2026-11-23 15:11:28,782 INFO arquivo=reservas_parte_invalida.csv
+2026-11-23 15:11:28,782 INFO arquivo=reservas_parte_valida.csv
+2026-11-23 15:11:28,782 INFO linhas_lidas=7
+2026-11-23 15:11:28,783 INFO passo=validacao completas=6 incompletas=1
+2026-11-23 15:11:28,783 INFO incompletas_ids=['R-BAD-2']
+2026-11-23 15:11:28,784 ERROR passo=fim status=falha
+2026-11-23 15:11:28,784 ERROR Lote rejeitado. Nenhuma saída de fechamento foi gerada.
+- Canal desconhecido em R-BAD-3: "Instagram". Canais aceitos: Booking, Airbnb, Own website, WhatsApp direct.
+- Noites fora do intervalo em R-BAD-5: "0". Use um inteiro a partir de 1.
+- Quarto 3 com estadias sobrepostas: R-BAD-1 (check-in 2026-09-02, 2 noites) e R-BAD-4 (check-in 2026-09-03, 2 noites).

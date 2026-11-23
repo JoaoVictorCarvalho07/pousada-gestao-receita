@@ -1,0 +1,18 @@
+{
+  "provider": "BrasilAPI",
+  "endpoint": "https://brasilapi.com.br/api/feriados/v1/2026",
+  "params": {
+    "year": 2026
+  },
+  "params_note": "O ano entra no caminho da URL. A mesma informação é enviada em params do requests; a consulta de verificação devolveu o mesmo JSON com e sem esse parâmetro.",
+  "retrieved_at": "2026-11-23T15:11:29-03:00",
+  "http_status": 200,
+  "source_mode": "live",
+  "record_count": 14,
+  "units": {
+    "date": "data civil no calendário gregoriano, formato ISO-8601 (YYYY-MM-DD)",
+    "name": "nome do feriado nacional em português",
+    "type": "classificação da BrasilAPI; nesta rota o valor esperado é national"
+  },
+  "terms_of_use": "A BrasilAPI oferece feriados nacionais como dado público, sem chave de acesso. O uso neste trabalho é acadêmico. Não há garantia de disponibilidade: se a consulta falhar, fica valendo a última resposta bruta salva em data/external. A resposta bruta não é editada à mão. Termos e documentação: https://brasilapi.com.br/"
+}

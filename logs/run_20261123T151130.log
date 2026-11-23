@@ -1,0 +1,15 @@
+2026-11-23 15:11:30,210 INFO run_id=20261123T151130 comando=python run_pipeline.py --offline
+2026-11-23 15:11:30,210 INFO passo=aquisicao diretorio=data/raw
+2026-11-23 15:11:30,214 INFO arquivo=reservas_2026-09.csv
+2026-11-23 15:11:30,215 INFO arquivo=reservas_2026-10.csv
+2026-11-23 15:11:30,215 INFO linhas_lidas=86
+2026-11-23 15:11:30,216 INFO passo=validacao completas=86 incompletas=0
+2026-11-23 15:11:30,219 INFO passo=regras reservas=86
+2026-11-23 15:11:30,221 INFO conferencia_outubro=ok reservas=39 diarias=134 ocupacao=54.0 liquida=27234.12 comissao=3535.08
+2026-11-23 15:11:30,221 INFO passo=feriados anos=[2026] offline=True
+2026-11-23 15:11:30,221 INFO passo=feriados ano=2026 source_mode=cache motivo=offline arquivo=feriados_2026.json
+2026-11-23 15:11:30,222 INFO passo=integracao source_mode=cache
+2026-11-23 15:11:30,226 INFO integracao reservas=86/86 diarias=292/292 liquida_antes=59395.10 liquida_depois=59395.10 cardinalidade=many_to_one sem_feriado=282 com_feriado=10
+2026-11-23 15:11:30,231 INFO passo=armazenamento pasta=output/run_20261123T151130
+2026-11-23 15:11:30,350 INFO arquivos_gravados=processado_reservas_2026-09.csv,processado_reservas_2026-10.csv,integrado_noites.csv,fechamento_pousada.xlsx,report.md
+2026-11-23 15:11:30,350 INFO passo=fim status=sucesso source_mode=cache

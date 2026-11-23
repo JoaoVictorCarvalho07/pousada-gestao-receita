@@ -1,0 +1,15 @@
+{
+  "run_id": "20261123T151130",
+  "status": "sucesso",
+  "source_mode": "cache",
+  "started_at": "2026-11-23T15:11:30-03:00",
+  "finished_at": "2026-11-23T15:11:30-03:00",
+  "input_dir": "data/raw",
+  "files": [
+    "reservas_2026-09.csv",
+    "reservas_2026-10.csv"
+  ],
+  "output_dir": "output/run_20261123T151130",
+  "log_file": "logs/run_20261123T151130.log",
+  "message": "Fechamento concluído."
+}

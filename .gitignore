@@ -1,4 +1,8 @@
 *.pdf
 ~$*
 __pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+output/.tmp_*/
 Summative Assessment LO1 - Pousada.docx

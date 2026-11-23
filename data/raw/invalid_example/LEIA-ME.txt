@@ -1,0 +1,11 @@
+Esta pasta não entra no fechamento normal.
+
+O comando `python run_pipeline.py` lê só os CSV que estão diretamente em data/raw.
+O exemplo inválido fica nesta subpasta e serve apenas para o teste de rejeição do lote:
+
+    python run_pipeline.py --input-dir data/raw/invalid_example
+
+reservas_parte_valida.csv tem linhas aceitáveis.
+reservas_parte_invalida.csv mistura uma linha incompleta (hóspede vazio), um canal
+inexistente (Instagram), uma sobreposição de quarto e uma quantidade de noites igual a zero.
+O lote inteiro, inclusive o arquivo válido, deve ser recusado. Nenhuma planilha é gerada.

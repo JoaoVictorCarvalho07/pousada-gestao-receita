@@ -1,0 +1,6 @@
+booking_id,guest,channel,room,checkin,nights,guests
+R-BAD-1,João Vazio,Booking,3,2026-09-02,2,2
+R-BAD-2,,Airbnb,4,2026-09-02,2,1
+R-BAD-3,Marina Costa,Instagram,5,2026-09-04,2,2
+R-BAD-4,Pedro Alves,Booking,3,2026-09-03,2,2
+R-BAD-5,Clara Luz,Booking,6,2026-09-01,0,2

@@ -1,0 +1,48 @@
+booking_id,guest,channel,room,checkin,nights,guests
+R202609-001,Helena Prado,WhatsApp direct,1,2026-09-01,3,2
+R202609-002,Caio Drummond,Booking,1,2026-09-05,3,2
+R202609-003,Renata Pires,Airbnb,1,2026-09-10,2,1
+R202609-004,Sérgio Lacerda,Own website,1,2026-09-15,4,3
+R202609-005,Lúcia Braga,WhatsApp direct,1,2026-09-22,3,2
+R202609-006,Miguel Tavares,Booking,1,2026-09-27,4,2
+R202609-007,Alice Monteiro,Airbnb,2,2026-09-02,4,2
+R202609-008,Bruno Esteves,WhatsApp direct,2,2026-09-08,2,1
+R202609-009,Camila Duarte,Booking,2,2026-09-11,3,4
+R202609-010,Diego Farias,Own website,2,2026-09-16,4,2
+R202609-011,Elisa Carmo,WhatsApp direct,2,2026-09-23,2,2
+R202609-012,Fábio Guimarães,Booking,2,2026-09-26,4,1
+R202609-013,Gabriela Luz,Own website,3,2026-09-01,2,2
+R202609-014,Heitor Campos,Booking,3,2026-09-04,4,3
+R202609-015,Íris Paiva,Airbnb,3,2026-09-09,3,2
+R202609-016,Joaquim Reis,WhatsApp direct,3,2026-09-14,2,2
+R202609-017,Karina Lopes,Booking,3,2026-09-18,5,2
+R202609-018,Leonardo Vaz,Airbnb,3,2026-09-25,3,1
+R202609-019,Marina Teixeira,Booking,4,2026-09-03,5,2
+R202609-020,Nelson Ito,WhatsApp direct,4,2026-09-09,2,2
+R202609-021,Olívia Sampaio,Own website,4,2026-09-13,3,4
+R202609-022,Pedro Bastos,Airbnb,4,2026-09-19,2,1
+R202609-023,Queila Ramos,Booking,4,2026-09-24,6,2
+R202609-024,Rafael Moura,Airbnb,5,2026-09-01,6,2
+R202609-025,Sara Antunes,Booking,5,2026-09-07,3,2
+R202609-026,Tiago Benites,WhatsApp direct,5,2026-09-12,4,3
+R202609-027,Úrsula Klein,Own website,5,2026-09-18,2,1
+R202609-028,Vitor Salles,Booking,5,2026-09-22,5,2
+R202609-029,Wanda Cruz,Airbnb,5,2026-09-28,2,2
+R202609-030,Xavier Dantas,WhatsApp direct,6,2026-09-02,3,2
+R202609-031,Yasmin Porto,Booking,6,2026-09-05,4,1
+R202609-032,Arthur Lemos,Airbnb,6,2026-09-10,5,2
+R202609-033,Bianca Rocha,Own website,6,2026-09-17,3,3
+R202609-034,César Vidal,WhatsApp direct,6,2026-09-21,2,2
+R202609-035,Débora Neri,Booking,6,2026-09-26,4,2
+R202609-036,Érico Santana,Booking,7,2026-09-01,4,2
+R202609-037,Flávia Borges,Airbnb,7,2026-09-06,3,2
+R202609-038,Gustavo Klein,WhatsApp direct,7,2026-09-11,2,1
+R202609-039,Helena Vasconcelos,Own website,7,2026-09-15,7,2
+R202609-040,Igor Paes,Booking,7,2026-09-23,3,4
+R202609-041,Júlia Mendes,Airbnb,7,2026-09-27,3,2
+R202609-042,Klaus Berger,Own website,8,2026-09-04,3,2
+R202609-043,Lara Coutinho,Booking,8,2026-09-09,3,3
+R202609-044,Marcos Vinícius,WhatsApp direct,8,2026-09-14,5,2
+R202609-045,Natália Serra,Airbnb,8,2026-09-20,2,1
+R202609-046,Otávio Lins,Booking,8,2026-09-24,4,2
+R202609-047,Paula Grechi,Own website,8,2026-09-29,1,2

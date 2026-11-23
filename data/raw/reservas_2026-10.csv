@@ -1,0 +1,40 @@
+booking_id,guest,channel,room,checkin,nights,guests
+R202610-001,Carolina Vieira,Booking,6,2026-10-01,7,1
+R202610-002,Thiago Martins,WhatsApp direct,2,2026-10-02,7,2
+R202610-003,Leticia Freitas,Booking,4,2026-10-02,3,3
+R202610-004,Eduardo Monteiro,Airbnb,7,2026-10-03,2,2
+R202610-005,Bruno Carvalho,WhatsApp direct,3,2026-10-04,3,2
+R202610-006,Camila Ferreira,Booking,5,2026-10-05,1,4
+R202610-007,Patricia Gomes,Booking,7,2026-10-07,3,1
+R202610-008,Gabriel Batista,WhatsApp direct,3,2026-10-08,7,1
+R202610-009,Larissa Mendes,WhatsApp direct,8,2026-10-08,2,1
+R202610-010,Marcelo Pinto,WhatsApp direct,1,2026-10-09,7,2
+R202610-011,Vanessa Moreira,WhatsApp direct,4,2026-10-09,2,3
+R202610-012,Beatriz Nunes,Booking,5,2026-10-09,2,2
+R202610-013,Mariana Alves,Booking,2,2026-10-10,2,2
+R202610-014,Elisa Siqueira,Booking,6,2026-10-10,2,2
+R202610-015,Diego Barbosa,Airbnb,7,2026-10-11,5,3
+R202610-016,Bianca Cunha,Booking,8,2026-10-11,2,2
+R202610-017,Natalia Farias,Airbnb,6,2026-10-15,4,1
+R202610-018,Vinicius Lopes,Booking,2,2026-10-16,2,1
+R202610-019,Renata Duarte,Booking,3,2026-10-16,3,2
+R202610-020,Rodrigo Teixeira,Own website,4,2026-10-16,5,4
+R202610-021,Fernanda Lima,Airbnb,5,2026-10-16,1,2
+R202610-022,Lucas Ribeiro,Booking,8,2026-10-16,7,3
+R202610-023,Henrique Dias,Booking,5,2026-10-18,3,2
+R202610-024,Daniela Fonseca,Own website,7,2026-10-18,3,1
+R202610-025,Sabrina Rezende,Airbnb,1,2026-10-20,4,2
+R202610-026,Mateus Pacheco,Own website,2,2026-10-23,4,2
+R202610-027,Aline Castro,Airbnb,3,2026-10-23,3,3
+R202610-028,Fabio Correia,Own website,4,2026-10-23,1,2
+R202610-029,Paulo Azevedo,Booking,5,2026-10-23,5,1
+R202610-030,Felipe Araujo,Own website,6,2026-10-23,2,1
+R202610-031,Priscila Campos,WhatsApp direct,7,2026-10-23,3,2
+R202610-032,Gustavo Pereira,WhatsApp direct,8,2026-10-23,3,1
+R202610-033,Ricardo Sales,WhatsApp direct,4,2026-10-24,7,2
+R202610-034,Tatiane Moura,WhatsApp direct,1,2026-10-25,2,1
+R202610-035,Andre Cardoso,Booking,1,2026-10-27,3,2
+R202610-036,Otavio Brandao,Airbnb,3,2026-10-28,4,2
+R202610-037,Leonardo Prado,Booking,8,2026-10-28,3,2
+R202610-038,Isabela Ramos,Booking,7,2026-10-29,3,2
+R202610-039,Juliana Rocha,Airbnb,6,2026-10-30,2,3

@@ -6,7 +6,25 @@ Esta entrega (LO2) automatiza o fechamento em lote: um comando lê os CSV de set
 
 ## Como executar
 
-Na raiz do repositório, com as dependências de [`requirements.txt`](requirements.txt):
+Na raiz do repositório, crie o ambiente `.venv`, ative-o e instale as dependências de [`requirements.txt`](requirements.txt).
+
+Windows (PowerShell):
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+```
+
+Linux e macOS:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+Com o ambiente ativo:
 
 ```bash
 python run_pipeline.py
@@ -16,7 +34,7 @@ python -m pytest
 
 O primeiro comando consulta a BrasilAPI. O segundo usa o último JSON salvo em [`data/external`](data/external). Os dois gravam pastas diferentes em `output/run_<id>/`, então a execução anterior permanece.
 
-No VS Code, use as configurações [`Pipeline LO2`](.vscode/launch.json) e `Pipeline LO2 (offline)`. As duas rodam [`run_pipeline.py`](run_pipeline.py) com a raiz do repositório como pasta de trabalho.
+No VS Code, selecione o interpretador de `.venv` e use as configurações [`Pipeline LO2`](.vscode/launch.json) e `Pipeline LO2 (offline)`. As duas rodam [`run_pipeline.py`](run_pipeline.py) com a raiz do repositório como pasta de trabalho.
 
 A última execução e o status ficam em [`output/latest_status.json`](output/latest_status.json) e também na última linha do terminal (`Status: sucesso` ou `Status: falha`).
 
@@ -28,7 +46,6 @@ python run_pipeline.py --input-dir data/raw/invalid_example
 
 Esse comando deve terminar com status falha, sem planilha nova.
 
-Neste ambiente o interpretador pode se chamar `python3`. O comando da disciplina é `python run_pipeline.py`.
 
 ## Estrutura
 

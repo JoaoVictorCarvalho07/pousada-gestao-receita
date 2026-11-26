@@ -31,7 +31,7 @@ Teste de sonda, antes de fechar o código: `urllib` sem o cliente do `requests` 
 
 Testes no pytest: `test_consulta_envia_params_e_timeout` confere `params == {"year": 2026}` e `timeout == 20`. `test_http_500_vira_erro_claro` confere a mensagem `HTTP 500`. A execução `20261123T151129` registrou `source_mode=live http=200 registros=14`.
 
-Resultado: a resposta bruta está em `data/external/feriados_2026.json` e o metadado (provedor, endpoint, parâmetros, data da coleta, unidades, termos) em `feriados_2026.meta.json`.
+Resultado: a resposta bruta está em `data/external/feriados_2026.json` e o metadado (provedor, endpoint, parâmetros, data da coleta, unidades, termos) em `data/external/feriados_2026.meta.json`.
 
 Limitação: o parâmetro de consulta é redundante. A BrasilAPI devolveu o mesmo JSON com e sem ele. O metadado diz isso em `params_note`. O 403 do `urllib` não foi investigado além de trocar para `requests`, que é a biblioteca pedida.
 

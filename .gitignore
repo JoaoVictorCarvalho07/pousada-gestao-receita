@@ -6,3 +6,7 @@ __pycache__/
 .venv/
 output/.tmp_*/
 Summative Assessment LO1 - Pousada.docx
+
+# Execuções locais posteriores (as pastas e os logs já rastreados da entrega de referência continuam no git)
+logs/run_*.log
+output/run_*/
